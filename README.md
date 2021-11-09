@@ -1,5 +1,5 @@
 # Flex
-<b>aprendizado sobre display</b>
+<b>aprendizado sobre display - CSS Flexbox</b>
 <p>
 <b>1- direction = </b> .flex-container; .flex-item; .row; row-reverse; column; column-reverse
   

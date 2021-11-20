@@ -8,4 +8,6 @@
 <b>3- flex-flow = </b> row-reverse wrap-reverse; row-reverse wrap; row-reverse nowrap; wrap-reverse; wrap; default row wrap
   
 <b>4- justify-content = </b> row/column; flex-star; flex-end; center; space-between; space-around
+
+<b>5- align-items = </b> alinhamento: center, stretch, start, end, basilne, alinhamento com colunas: center, start, end, basilne e central
   </p>

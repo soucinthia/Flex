@@ -12,6 +12,9 @@
 <b>5- align-items = </b> alinhamento: center; stretch; start; end; basilne; alinhamento com colunas: center; start; end; basilne e central
 
 <b>6- align-content = </b> Stretch; center; flex-start; flex-end; space-arround; space-between
+  
+<b>7- flex-shrink - </b> flex-shrink; flex-basis; flex-grow
+
 
 !--aprendizado de hoje: commit direto pelo terminal bash github "separando style"--
 </p>
